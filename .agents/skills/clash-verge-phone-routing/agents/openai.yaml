@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clash Verge Phone Routing"
+  short_description: "Route domains through a phone proxy in Clash Verge"
+  default_prompt: "Use $clash-verge-phone-routing to route a domain through the USB-attached phone and verify the rule matched."
